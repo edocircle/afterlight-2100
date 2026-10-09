@@ -1,0 +1,260 @@
+[gd_scene format=3 uid="uid://craftpage001"]
+
+[ext_resource type="Script" path="res://scripts/craft_page.gd" id="1_craft_page"]
+
+[node name="CraftPage" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_craft_page")
+
+[node name="SafeArea" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme_override_constants/margin_left = 16
+theme_override_constants/margin_top = 40
+theme_override_constants/margin_right = 16
+theme_override_constants/margin_bottom = 40
+
+[node name="MainVBox" type="VBoxContainer" parent="SafeArea"]
+layout_mode = 2
+theme_override_constants/separation = 16
+
+[node name="StatusBar" type="HBoxContainer" parent="SafeArea/MainVBox"]
+layout_mode = 2
+
+[node name="EnergyBar" type="ProgressBar" parent="SafeArea/MainVBox/StatusBar"]
+custom_minimum_size = Vector2(80, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 1
+step = 1.0
+value = 100.0
+show_percentage = false
+
+[node name="EnergyLabel" type="Label" parent="SafeArea/MainVBox/StatusBar/EnergyBar"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+text = "100/100"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="SkillLabel" type="Label" parent="SafeArea/MainVBox/StatusBar"]
+layout_mode = 2
+text = "TC: 0"
+
+[node name="DiscoveryLabel" type="Label" parent="SafeArea/MainVBox/StatusBar"]
+layout_mode = 2
+text = "0/37"
+
+[node name="RecipeBookBtn" type="Button" parent="SafeArea/MainVBox/StatusBar"]
+custom_minimum_size = Vector2(50, 40)
+layout_mode = 2
+text = "Book"
+
+[node name="HandGatherStrip" type="HBoxContainer" parent="SafeArea/MainVBox"]
+layout_mode = 2
+alignment = 1
+theme_override_constants/separation = 10
+
+[node name="RubbleBtn" type="Button" parent="SafeArea/MainVBox/HandGatherStrip"]
+custom_minimum_size = Vector2(64, 64)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Rubble"
+
+[node name="PlasticBtn" type="Button" parent="SafeArea/MainVBox/HandGatherStrip"]
+custom_minimum_size = Vector2(64, 64)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Plastic"
+
+[node name="CableBtn" type="Button" parent="SafeArea/MainVBox/HandGatherStrip"]
+custom_minimum_size = Vector2(64, 64)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Cable"
+
+[node name="RobotPanel" type="PanelContainer" parent="SafeArea/MainVBox"]
+layout_mode = 2
+
+[node name="RobotVBox" type="VBoxContainer" parent="SafeArea/MainVBox/RobotPanel"]
+layout_mode = 2
+
+[node name="RobotStatus" type="Label" parent="SafeArea/MainVBox/RobotPanel/RobotVBox"]
+layout_mode = 2
+text = "Robot: Sleeping"
+horizontal_alignment = 1
+
+[node name="RobotControls" type="HBoxContainer" parent="SafeArea/MainVBox/RobotPanel/RobotVBox"]
+layout_mode = 2
+alignment = 1
+
+[node name="ChipOption" type="OptionButton" parent="SafeArea/MainVBox/RobotPanel/RobotVBox/RobotControls"]
+layout_mode = 2
+size_flags_horizontal = 3
+item_count = 1
+popup/item_0/text = "No Chip"
+popup/item_0/id = 0
+
+[node name="BagLabel" type="Label" parent="SafeArea/MainVBox/RobotPanel/RobotVBox/RobotControls"]
+layout_mode = 2
+text = "Bag: 0/30"
+
+[node name="CollectBtn" type="Button" parent="SafeArea/MainVBox/RobotPanel/RobotVBox/RobotControls"]
+custom_minimum_size = Vector2(70, 40)
+layout_mode = 2
+text = "Collect"
+
+[node name="CraftTable" type="PanelContainer" parent="SafeArea/MainVBox"]
+layout_mode = 2
+
+[node name="CraftVBox" type="VBoxContainer" parent="SafeArea/MainVBox/CraftTable"]
+layout_mode = 2
+
+[node name="SlotsHBox" type="HBoxContainer" parent="SafeArea/MainVBox/CraftTable/CraftVBox"]
+layout_mode = 2
+alignment = 1
+theme_override_constants/separation = 5
+
+[node name="ToolSlot" type="Button" parent="SafeArea/MainVBox/CraftTable/CraftVBox/SlotsHBox"]
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+text = "Tool"
+
+[node name="Plus" type="Label" parent="SafeArea/MainVBox/CraftTable/CraftVBox/SlotsHBox"]
+layout_mode = 2
+text = "+"
+
+[node name="Ing1Slot" type="Button" parent="SafeArea/MainVBox/CraftTable/CraftVBox/SlotsHBox"]
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+text = "In 1"
+
+[node name="Ing2Slot" type="Button" parent="SafeArea/MainVBox/CraftTable/CraftVBox/SlotsHBox"]
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+text = "In 2"
+
+[node name="Ing3Slot" type="Button" parent="SafeArea/MainVBox/CraftTable/CraftVBox/SlotsHBox"]
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+text = "In 3"
+
+[node name="Eq" type="Label" parent="SafeArea/MainVBox/CraftTable/CraftVBox/SlotsHBox"]
+layout_mode = 2
+text = "="
+
+[node name="ResultPreview" type="Button" parent="SafeArea/MainVBox/CraftTable/CraftVBox/SlotsHBox"]
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+text = "Res"
+
+[node name="MessageLine" type="Label" parent="SafeArea/MainVBox/CraftTable/CraftVBox"]
+layout_mode = 2
+text = "Ready to craft."
+horizontal_alignment = 1
+
+[node name="CraftActions" type="HBoxContainer" parent="SafeArea/MainVBox/CraftTable/CraftVBox"]
+layout_mode = 2
+alignment = 1
+theme_override_constants/separation = 20
+
+[node name="ClearBtn" type="Button" parent="SafeArea/MainVBox/CraftTable/CraftVBox/CraftActions"]
+custom_minimum_size = Vector2(80, 50)
+layout_mode = 2
+text = "Clear"
+
+[node name="CraftBtn" type="Button" parent="SafeArea/MainVBox/CraftTable/CraftVBox/CraftActions"]
+custom_minimum_size = Vector2(120, 50)
+layout_mode = 2
+text = "Craft"
+
+[node name="InventoryArea" type="VBoxContainer" parent="SafeArea/MainVBox"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="FilterHBox" type="HBoxContainer" parent="SafeArea/MainVBox/InventoryArea"]
+layout_mode = 2
+
+[node name="SearchInput" type="LineEdit" parent="SafeArea/MainVBox/InventoryArea/FilterHBox"]
+layout_mode = 2
+size_flags_horizontal = 3
+placeholder_text = "Search..."
+
+[node name="FilterAll" type="Button" parent="SafeArea/MainVBox/InventoryArea/FilterHBox"]
+layout_mode = 2
+text = "All"
+
+[node name="FilterMat" type="Button" parent="SafeArea/MainVBox/InventoryArea/FilterHBox"]
+layout_mode = 2
+text = "Mat"
+
+[node name="FilterPart" type="Button" parent="SafeArea/MainVBox/InventoryArea/FilterHBox"]
+layout_mode = 2
+text = "Part"
+
+[node name="FilterTool" type="Button" parent="SafeArea/MainVBox/InventoryArea/FilterHBox"]
+layout_mode = 2
+text = "Tool"
+
+[node name="InvScroll" type="ScrollContainer" parent="SafeArea/MainVBox/InventoryArea"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="InvGrid" type="GridContainer" parent="SafeArea/MainVBox/InventoryArea/InvScroll"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+columns = 5
+theme_override_constants/h_separation = 5
+theme_override_constants/v_separation = 5
+
+[node name="RecipeBookPanel" type="PanelContainer" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="SafeArea" type="MarginContainer" parent="RecipeBookPanel"]
+layout_mode = 2
+theme_override_constants/margin_left = 16
+theme_override_constants/margin_top = 40
+theme_override_constants/margin_right = 16
+theme_override_constants/margin_bottom = 40
+
+[node name="VBox" type="VBoxContainer" parent="RecipeBookPanel/SafeArea"]
+layout_mode = 2
+theme_override_constants/separation = 16
+
+[node name="Header" type="HBoxContainer" parent="RecipeBookPanel/SafeArea/VBox"]
+layout_mode = 2
+
+[node name="Title" type="Label" parent="RecipeBookPanel/SafeArea/VBox/Header"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Recipe Book"
+horizontal_alignment = 1
+
+[node name="CloseBookBtn" type="Button" parent="RecipeBookPanel/SafeArea/VBox/Header"]
+custom_minimum_size = Vector2(80, 40)
+layout_mode = 2
+text = "Close"
+
+[node name="Scroll" type="ScrollContainer" parent="RecipeBookPanel/SafeArea/VBox"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="List" type="VBoxContainer" parent="RecipeBookPanel/SafeArea/VBox/Scroll"]
+layout_mode = 2
+size_flags_horizontal = 3
