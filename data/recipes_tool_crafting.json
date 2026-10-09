@@ -1,0 +1,870 @@
+[
+ {
+  "id": "sharp_shard",
+  "output": "sharp_shard",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "rubble",
+    "qty": 2
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 0,
+  "energy": 5
+ },
+ {
+  "id": "blade_head",
+  "output": "blade_head",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "rubble",
+    "qty": 1
+   },
+   {
+    "item": "sharp_shard",
+    "qty": 1
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 10,
+  "energy": 5
+ },
+ {
+  "id": "braided_cable",
+  "output": "braided_cable",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "cable_strand",
+    "qty": 2
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 10,
+  "energy": 5
+ },
+ {
+  "id": "hook",
+  "output": "hook",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "alloy_scrap",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "cutter",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 30,
+  "energy": 5
+ },
+ {
+  "id": "sharp_alloy",
+  "output": "sharp_alloy",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "alloy_scrap",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 30,
+  "energy": 5
+ },
+ {
+  "id": "smooth_rod",
+  "output": "smooth_rod",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "cutter",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 30,
+  "energy": 5
+ },
+ {
+  "id": "rubber_cord",
+  "output": "rubber_cord",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "rubber_strip",
+    "qty": 2
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 35,
+  "energy": 5
+ },
+ {
+  "id": "scrap_axe",
+  "output": "scrap_axe",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_shard",
+    "qty": 1
+   },
+   {
+    "item": "cable_strand",
+    "qty": 1
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 0,
+  "energy": 15
+ },
+ {
+  "id": "scrap_hammer",
+  "output": "scrap_hammer",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "rubble",
+    "qty": 1
+   },
+   {
+    "item": "cable_strand",
+    "qty": 1
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 5,
+  "energy": 15
+ },
+ {
+  "id": "scrap_cutter",
+  "output": "scrap_cutter",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_shard",
+    "qty": 1
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubble",
+    "qty": 1
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 5,
+  "energy": 15
+ },
+ {
+  "id": "scrap_lance",
+  "output": "scrap_lance",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_shard",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 15,
+  "energy": 15
+ },
+ {
+  "id": "scrap_digger",
+  "output": "scrap_digger",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "metal_scrap",
+    "qty": 1
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "cutter",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 25,
+  "energy": 15
+ },
+ {
+  "id": "scrap_rod",
+  "output": "scrap_rod",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "hook",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 35,
+  "energy": 15
+ },
+ {
+  "id": "scrap_grabber",
+  "output": "scrap_grabber",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_shard",
+    "qty": 2
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   },
+   {
+    "item": "cable_strand",
+    "qty": 1
+   }
+  ],
+  "tool": null,
+  "skill": "tool_crafting",
+  "skill_req": 45,
+  "energy": 15
+ },
+ {
+  "id": "standard_axe",
+  "output": "standard_axe",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "blade_head",
+    "qty": 1
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubble",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 35,
+  "energy": 20
+ },
+ {
+  "id": "standard_hammer",
+  "output": "standard_hammer",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   },
+   {
+    "item": "rubble",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 35,
+  "energy": 20
+ },
+ {
+  "id": "standard_cutter",
+  "output": "standard_cutter",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   },
+   {
+    "item": "sharp_shard",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 35,
+  "energy": 20
+ },
+ {
+  "id": "standard_lance",
+  "output": "standard_lance",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_alloy",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 35,
+  "energy": 20
+ },
+ {
+  "id": "standard_digger",
+  "output": "standard_digger",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "scrap_digger",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 40,
+  "energy": 20
+ },
+ {
+  "id": "standard_rod",
+  "output": "standard_rod",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "scrap_rod",
+    "qty": 1
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   },
+   {
+    "item": "cable_strand",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 45,
+  "energy": 20
+ },
+ {
+  "id": "standard_grabber",
+  "output": "standard_grabber",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_shard",
+    "qty": 2
+   },
+   {
+    "item": "plastic_rod",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 1
+  },
+  "skill": "tool_crafting",
+  "skill_req": 65,
+  "energy": 20
+ },
+ {
+  "id": "advanced_axe",
+  "output": "advanced_axe",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "blade_head",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 2
+  },
+  "skill": "tool_crafting",
+  "skill_req": 55,
+  "energy": 30
+ },
+ {
+  "id": "advanced_hammer",
+  "output": "advanced_hammer",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   },
+   {
+    "item": "rubble",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 2
+  },
+  "skill": "tool_crafting",
+  "skill_req": 55,
+  "energy": 30
+ },
+ {
+  "id": "advanced_cutter",
+  "output": "advanced_cutter",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   },
+   {
+    "item": "sharp_alloy",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 2
+  },
+  "skill": "tool_crafting",
+  "skill_req": 55,
+  "energy": 30
+ },
+ {
+  "id": "advanced_lance",
+  "output": "advanced_lance",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_alloy",
+    "qty": 1
+   },
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 2
+  },
+  "skill": "tool_crafting",
+  "skill_req": 55,
+  "energy": 30
+ },
+ {
+  "id": "advanced_digger",
+  "output": "advanced_digger",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "standard_digger",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   },
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 2
+  },
+  "skill": "tool_crafting",
+  "skill_req": 55,
+  "energy": 30
+ },
+ {
+  "id": "advanced_rod",
+  "output": "advanced_rod",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "standard_rod",
+    "qty": 1
+   },
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubber_cord",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 2
+  },
+  "skill": "tool_crafting",
+  "skill_req": 60,
+  "energy": 30
+ },
+ {
+  "id": "advanced_grabber",
+  "output": "advanced_grabber",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_shard",
+    "qty": 2
+   },
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "braided_cable",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 2
+  },
+  "skill": "tool_crafting",
+  "skill_req": 80,
+  "energy": 30
+ },
+ {
+  "id": "elite_axe",
+  "output": "elite_axe",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubber_cord",
+    "qty": 1
+   },
+   {
+    "item": "blade_head",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 3
+  },
+  "skill": "tool_crafting",
+  "skill_req": 70,
+  "energy": 45
+ },
+ {
+  "id": "elite_hammer",
+  "output": "elite_hammer",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubber_cord",
+    "qty": 1
+   },
+   {
+    "item": "alloy_scrap",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 3
+  },
+  "skill": "tool_crafting",
+  "skill_req": 70,
+  "energy": 45
+ },
+ {
+  "id": "elite_cutter",
+  "output": "elite_cutter",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubber_cord",
+    "qty": 1
+   },
+   {
+    "item": "sharp_alloy",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 3
+  },
+  "skill": "tool_crafting",
+  "skill_req": 70,
+  "energy": 45
+ },
+ {
+  "id": "elite_lance",
+  "output": "elite_lance",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_alloy",
+    "qty": 1
+   },
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubber_cord",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 3
+  },
+  "skill": "tool_crafting",
+  "skill_req": 70,
+  "energy": 45
+ },
+ {
+  "id": "elite_digger",
+  "output": "elite_digger",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "advanced_digger",
+    "qty": 1
+   },
+   {
+    "item": "rubber_cord",
+    "qty": 1
+   },
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 3
+  },
+  "skill": "tool_crafting",
+  "skill_req": 70,
+  "energy": 45
+ },
+ {
+  "id": "elite_rod",
+  "output": "elite_rod",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "advanced_rod",
+    "qty": 1
+   },
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "bright_alloy",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 3
+  },
+  "skill": "tool_crafting",
+  "skill_req": 75,
+  "energy": 45
+ },
+ {
+  "id": "elite_grabber",
+  "output": "elite_grabber",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "sharp_shard",
+    "qty": 2
+   },
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubber_cord",
+    "qty": 1
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 3
+  },
+  "skill": "tool_crafting",
+  "skill_req": 85,
+  "energy": 45
+ },
+ {
+  "id": "tactical_tool",
+  "output": "tactical_tool",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubber_cord",
+    "qty": 3
+   },
+   {
+    "item": "rubble",
+    "qty": 6
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 4
+  },
+  "skill": "tool_crafting",
+  "skill_req": 100,
+  "energy": 60
+ },
+ {
+  "id": "tactical_bright_tool",
+  "output": "tactical_bright_tool",
+  "output_qty": 1,
+  "inputs": [
+   {
+    "item": "smooth_rod",
+    "qty": 1
+   },
+   {
+    "item": "rubber_cord",
+    "qty": 3
+   },
+   {
+    "item": "bright_alloy",
+    "qty": 6
+   }
+  ],
+  "tool": {
+   "family": "hammer",
+   "min_tier": 4
+  },
+  "skill": "tool_crafting",
+  "skill_req": 120,
+  "energy": 60
+ }
+]

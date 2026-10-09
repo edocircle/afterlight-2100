@@ -1,0 +1,28 @@
+{
+ "energy": {
+  "max": 100,
+  "regen_seconds_per_point": 6,
+  "regen_offline": true
+ },
+ "robot": {
+  "trip_seconds": 60,
+  "base_items_per_trip": 3,
+  "skill_per_extra_item": 25,
+  "max_chip_skill": 100,
+  "bag_size": 30,
+  "wake_after_recipe": "scrap_cutter"
+ },
+ "tier_weights": {
+  "1": 6,
+  "2": 4,
+  "3": 2,
+  "4": 1
+ },
+ "xp": {
+  "per_energy_divisor": 5,
+  "first_discovery_multiplier": 3,
+  "xp_per_level": 10,
+  "max_level": 120
+ },
+ "stack_size": 999
+}

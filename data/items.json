@@ -1,0 +1,2977 @@
+[
+ {
+  "id": "apple",
+  "name": "Apple",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "orange",
+  "name": "Orange",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "banana",
+  "name": "Banana",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "blue_berry",
+  "name": "Blue Berry",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "red_berry",
+  "name": "Red Berry",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "grape",
+  "name": "Grape",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "lemon",
+  "name": "Lemon",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "pear",
+  "name": "Pear",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "peach",
+  "name": "Peach",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "mango",
+  "name": "Mango",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "coconut",
+  "name": "Coconut",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "pineapple",
+  "name": "Pineapple",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "dragon_fruit",
+  "name": "Dragon Fruit",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "sun_citrus",
+  "name": "Sun Citrus",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "glow_berry",
+  "name": "Glow Berry",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "cube_melon",
+  "name": "Cube Melon",
+  "type": "gather",
+  "group": "Fruit",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "tomato",
+  "name": "Tomato",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "carrot",
+  "name": "Carrot",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "lettuce",
+  "name": "Lettuce",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "potato",
+  "name": "Potato",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "eggplant",
+  "name": "Eggplant",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "cabbage",
+  "name": "Cabbage",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "onion",
+  "name": "Onion",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "garlic",
+  "name": "Garlic",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "pumpkin",
+  "name": "Pumpkin",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "corn",
+  "name": "Corn",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "cucumber",
+  "name": "Cucumber",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "spinach",
+  "name": "Spinach",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "pepper",
+  "name": "Pepper",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "sweet_potato",
+  "name": "Sweet Potato",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "radish",
+  "name": "Radish",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "beetroot",
+  "name": "Beetroot",
+  "type": "gather",
+  "group": "Vegetable",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "rice",
+  "name": "Rice",
+  "type": "gather",
+  "group": "Grain & Legume",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "wheat",
+  "name": "Wheat",
+  "type": "gather",
+  "group": "Grain & Legume",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "oats",
+  "name": "Oats",
+  "type": "gather",
+  "group": "Grain & Legume",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "soybean",
+  "name": "Soybean",
+  "type": "gather",
+  "group": "Grain & Legume",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "lentil",
+  "name": "Lentil",
+  "type": "gather",
+  "group": "Grain & Legume",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "chickpea",
+  "name": "Chickpea",
+  "type": "gather",
+  "group": "Grain & Legume",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "walnut",
+  "name": "Walnut",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "peanut",
+  "name": "Peanut",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "chestnut",
+  "name": "Chestnut",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "almond",
+  "name": "Almond",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "cashew",
+  "name": "Cashew",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "pistachio",
+  "name": "Pistachio",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "sunflower_seed",
+  "name": "Sunflower Seed",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "sesame_seed",
+  "name": "Sesame Seed",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "flax_seed",
+  "name": "Flax Seed",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "chia_seed",
+  "name": "Chia Seed",
+  "type": "gather",
+  "group": "Nut & Seed",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "mint",
+  "name": "Mint",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "basil",
+  "name": "Basil",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "aloe",
+  "name": "Aloe",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "ginger",
+  "name": "Ginger",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "lavender",
+  "name": "Lavender",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "rosemary",
+  "name": "Rosemary",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "chamomile",
+  "name": "Chamomile",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "ginseng",
+  "name": "Ginseng",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "lotus_flower",
+  "name": "Lotus Flower",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "cotton_boll",
+  "name": "Cotton Boll",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "hemp_stalk",
+  "name": "Hemp Stalk",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "silk_orchid",
+  "name": "Silk Orchid",
+  "type": "gather",
+  "group": "Herb & Flower",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "mushroom",
+  "name": "Mushroom",
+  "type": "gather",
+  "group": "Fungi & Algae",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "button_mushroom",
+  "name": "Button Mushroom",
+  "type": "gather",
+  "group": "Fungi & Algae",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "oyster_mushroom",
+  "name": "Oyster Mushroom",
+  "type": "gather",
+  "group": "Fungi & Algae",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "shiitake",
+  "name": "Shiitake",
+  "type": "gather",
+  "group": "Fungi & Algae",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "truffle",
+  "name": "Truffle",
+  "type": "gather",
+  "group": "Fungi & Algae",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "glow_mushroom",
+  "name": "Glow Mushroom",
+  "type": "gather",
+  "group": "Fungi & Algae",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "spirulina",
+  "name": "Spirulina",
+  "type": "gather",
+  "group": "Fungi & Algae",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "chlorella",
+  "name": "Chlorella",
+  "type": "gather",
+  "group": "Fungi & Algae",
+  "chip": "Harvest",
+  "tool_family": "grabber",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "mouse",
+  "name": "Mouse",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "rat",
+  "name": "Rat",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "lizard",
+  "name": "Lizard",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "turtle",
+  "name": "Turtle",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "pigeon",
+  "name": "Pigeon",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "sparrow",
+  "name": "Sparrow",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "rabbit",
+  "name": "Rabbit",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "squirrel",
+  "name": "Squirrel",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "feral_chicken",
+  "name": "Feral Chicken",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "duck",
+  "name": "Duck",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "crow",
+  "name": "Crow",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "snake",
+  "name": "Snake",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "frog",
+  "name": "Frog",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "goose",
+  "name": "Goose",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "turkey",
+  "name": "Turkey",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "fox",
+  "name": "Fox",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "coyote",
+  "name": "Coyote",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "monkey",
+  "name": "Monkey",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "goat",
+  "name": "Goat",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "wild_boar",
+  "name": "Wild Boar",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "wolf",
+  "name": "Wolf",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "deer",
+  "name": "Deer",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "crocodile",
+  "name": "Crocodile",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "bear",
+  "name": "Bear",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "mutant_wolf",
+  "name": "Mutant Wolf",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "feral_ox",
+  "name": "Feral Ox",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "scrap_hound",
+  "name": "Scrap Hound",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "feral_drone",
+  "name": "Feral Drone",
+  "type": "gather",
+  "group": "Creature",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "egg",
+  "name": "Egg",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "feather",
+  "name": "Feather",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "worm",
+  "name": "Worm",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "cricket",
+  "name": "Cricket",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "nest_straw",
+  "name": "Nest Straw",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "honeycomb",
+  "name": "Honeycomb",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "spider_silk",
+  "name": "Spider Silk",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "snail_shell",
+  "name": "Snail Shell",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "insect_wing",
+  "name": "Insect Wing",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "beetle_shell",
+  "name": "Beetle Shell",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "royal_jelly",
+  "name": "Royal Jelly",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "glow_moth_dust",
+  "name": "Glow Moth Dust",
+  "type": "gather",
+  "group": "Nest & Hive",
+  "chip": "Wildlife",
+  "tool_family": "lance",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "sardine",
+  "name": "Sardine",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "mackerel",
+  "name": "Mackerel",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "carp",
+  "name": "Carp",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "crab",
+  "name": "Crab",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "shrimp",
+  "name": "Shrimp",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "trout",
+  "name": "Trout",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "tuna",
+  "name": "Tuna",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "red_salmon",
+  "name": "Red Salmon",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "clownfish",
+  "name": "Clownfish",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "moorish_idol",
+  "name": "Moorish Idol",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "lobster",
+  "name": "Lobster",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "squid",
+  "name": "Squid",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "eel",
+  "name": "Eel",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "catfish",
+  "name": "Catfish",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "tiger_fish",
+  "name": "Tiger Fish",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "octopus",
+  "name": "Octopus",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "pufferfish",
+  "name": "Pufferfish",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "jellyfish",
+  "name": "Jellyfish",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "swordfish",
+  "name": "Swordfish",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "reef_shark",
+  "name": "Reef Shark",
+  "type": "gather",
+  "group": "Fish & Seafood",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "canal_water",
+  "name": "Canal Water",
+  "type": "gather",
+  "group": "Water & Aquatic",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "rainwater",
+  "name": "Rainwater",
+  "type": "gather",
+  "group": "Water & Aquatic",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "seawater",
+  "name": "Seawater",
+  "type": "gather",
+  "group": "Water & Aquatic",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "kelp",
+  "name": "Kelp",
+  "type": "gather",
+  "group": "Water & Aquatic",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "glacier_ice",
+  "name": "Glacier Ice",
+  "type": "gather",
+  "group": "Water & Aquatic",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "spring_water",
+  "name": "Spring Water",
+  "type": "gather",
+  "group": "Water & Aquatic",
+  "chip": "Fishing",
+  "tool_family": "rod",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "rubble",
+  "name": "Rubble",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 1,
+  "hand": true
+ },
+ {
+  "id": "dirt",
+  "name": "Dirt",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "mud",
+  "name": "Mud",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "clay",
+  "name": "Clay",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "sand",
+  "name": "Sand",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "gravel",
+  "name": "Gravel",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "peat",
+  "name": "Peat",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "silt",
+  "name": "Silt",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "limestone",
+  "name": "Limestone",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "chalk",
+  "name": "Chalk",
+  "type": "gather",
+  "group": "Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "flint",
+  "name": "Flint",
+  "type": "gather",
+  "group": "Stone",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "granite",
+  "name": "Granite",
+  "type": "gather",
+  "group": "Stone",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "basalt",
+  "name": "Basalt",
+  "type": "gather",
+  "group": "Stone",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "sandstone",
+  "name": "Sandstone",
+  "type": "gather",
+  "group": "Stone",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "slate",
+  "name": "Slate",
+  "type": "gather",
+  "group": "Stone",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "marble",
+  "name": "Marble",
+  "type": "gather",
+  "group": "Stone",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "obsidian",
+  "name": "Obsidian",
+  "type": "gather",
+  "group": "Stone",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "pumice",
+  "name": "Pumice",
+  "type": "gather",
+  "group": "Stone",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "salt",
+  "name": "Salt",
+  "type": "gather",
+  "group": "Fuel & Chemical",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "coal",
+  "name": "Coal",
+  "type": "gather",
+  "group": "Fuel & Chemical",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "sulfur",
+  "name": "Sulfur",
+  "type": "gather",
+  "group": "Fuel & Chemical",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "saltpeter",
+  "name": "Saltpeter",
+  "type": "gather",
+  "group": "Fuel & Chemical",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "graphite",
+  "name": "Graphite",
+  "type": "gather",
+  "group": "Fuel & Chemical",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "bitumen",
+  "name": "Bitumen",
+  "type": "gather",
+  "group": "Fuel & Chemical",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "iron_ore",
+  "name": "Iron Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "copper_ore",
+  "name": "Copper Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "tin_ore",
+  "name": "Tin Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "zinc_ore",
+  "name": "Zinc Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "lead_ore",
+  "name": "Lead Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "nickel_ore",
+  "name": "Nickel Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "bauxite",
+  "name": "Bauxite",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "silver_ore",
+  "name": "Silver Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "gold_ore",
+  "name": "Gold Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "titanium_ore",
+  "name": "Titanium Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "cobalt_ore",
+  "name": "Cobalt Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "tungsten_ore",
+  "name": "Tungsten Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "lithium_ore",
+  "name": "Lithium Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "platinum_ore",
+  "name": "Platinum Ore",
+  "type": "gather",
+  "group": "Ore",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "quartz_crystal",
+  "name": "Quartz Crystal",
+  "type": "gather",
+  "group": "Crystal & Gem",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "silica_sand",
+  "name": "Silica Sand",
+  "type": "gather",
+  "group": "Crystal & Gem",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "amethyst",
+  "name": "Amethyst",
+  "type": "gather",
+  "group": "Crystal & Gem",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "ruby",
+  "name": "Ruby",
+  "type": "gather",
+  "group": "Crystal & Gem",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "sapphire",
+  "name": "Sapphire",
+  "type": "gather",
+  "group": "Crystal & Gem",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "emerald",
+  "name": "Emerald",
+  "type": "gather",
+  "group": "Crystal & Gem",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "diamond",
+  "name": "Diamond",
+  "type": "gather",
+  "group": "Crystal & Gem",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "lumen_crystal",
+  "name": "Lumen Crystal",
+  "type": "gather",
+  "group": "Crystal & Gem",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "magnetite",
+  "name": "Magnetite",
+  "type": "gather",
+  "group": "Rare Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "rare_earth_ore",
+  "name": "Rare Earth Ore",
+  "type": "gather",
+  "group": "Rare Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "neodymium_ore",
+  "name": "Neodymium Ore",
+  "type": "gather",
+  "group": "Rare Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "meteorite_fragment",
+  "name": "Meteorite Fragment",
+  "type": "gather",
+  "group": "Rare Earth",
+  "chip": "Quarry",
+  "tool_family": "digger",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "metal_scrap",
+  "name": "Metal Scrap",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "alloy_scrap",
+  "name": "Alloy Scrap",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "steel_bolt",
+  "name": "Steel Bolt",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "iron_rod",
+  "name": "Iron Rod",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "rivet",
+  "name": "Rivet",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "aluminum_scrap",
+  "name": "Aluminum Scrap",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "copper_pipe",
+  "name": "Copper Pipe",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "spring",
+  "name": "Spring",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "chain_link",
+  "name": "Chain Link",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "steel_beam",
+  "name": "Steel Beam",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "titanium_plate",
+  "name": "Titanium Plate",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "bright_alloy",
+  "name": "Bright Alloy",
+  "type": "gather",
+  "group": "Metal",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "plastic_rod",
+  "name": "Plastic Rod",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": true
+ },
+ {
+  "id": "cable_strand",
+  "name": "Cable Strand",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": true
+ },
+ {
+  "id": "rubber_strip",
+  "name": "Rubber Strip",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "plastic_sheet",
+  "name": "Plastic Sheet",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "pvc_pipe",
+  "name": "PVC Pipe",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "foam_padding",
+  "name": "Foam Padding",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "rubber_hose",
+  "name": "Rubber Hose",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "fiberglass",
+  "name": "Fiberglass",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "rubber_tire",
+  "name": "Rubber Tire",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "carbon_fiber_sheet",
+  "name": "Carbon Fiber Sheet",
+  "type": "gather",
+  "group": "Plastic & Rubber",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "copper_wire",
+  "name": "Copper Wire",
+  "type": "gather",
+  "group": "Wire & Cable",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "coaxial_cable",
+  "name": "Coaxial Cable",
+  "type": "gather",
+  "group": "Wire & Cable",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "power_cable",
+  "name": "Power Cable",
+  "type": "gather",
+  "group": "Wire & Cable",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "ribbon_cable",
+  "name": "Ribbon Cable",
+  "type": "gather",
+  "group": "Wire & Cable",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "fiber_optic_cable",
+  "name": "Fiber Optic Cable",
+  "type": "gather",
+  "group": "Wire & Cable",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "superconductor_wire",
+  "name": "Superconductor Wire",
+  "type": "gather",
+  "group": "Wire & Cable",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "resistor",
+  "name": "Resistor",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "circuit_board",
+  "name": "Circuit Board",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "capacitor",
+  "name": "Capacitor",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "led",
+  "name": "LED",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "battery_cell",
+  "name": "Battery Cell",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "magnet",
+  "name": "Magnet",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "cooling_fan",
+  "name": "Cooling Fan",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "speaker",
+  "name": "Speaker",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "antenna",
+  "name": "Antenna",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "microchip",
+  "name": "Microchip",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "lithium_battery",
+  "name": "Lithium Battery",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "small_motor",
+  "name": "Small Motor",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "sensor",
+  "name": "Sensor",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "camera_lens",
+  "name": "Camera Lens",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "screen_panel",
+  "name": "Screen Panel",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "solar_cell",
+  "name": "Solar Cell",
+  "type": "gather",
+  "group": "Electronics",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "glass_shard",
+  "name": "Glass Shard",
+  "type": "gather",
+  "group": "Glass & Ceramic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "glass_pane",
+  "name": "Glass Pane",
+  "type": "gather",
+  "group": "Glass & Ceramic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "ceramic_tile",
+  "name": "Ceramic Tile",
+  "type": "gather",
+  "group": "Glass & Ceramic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "mirror_shard",
+  "name": "Mirror Shard",
+  "type": "gather",
+  "group": "Glass & Ceramic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "ceramic_insulator",
+  "name": "Ceramic Insulator",
+  "type": "gather",
+  "group": "Glass & Ceramic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "tempered_glass",
+  "name": "Tempered Glass",
+  "type": "gather",
+  "group": "Glass & Ceramic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "gear",
+  "name": "Gear",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "bearing",
+  "name": "Bearing",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "valve",
+  "name": "Valve",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "piston",
+  "name": "Piston",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "pump_part",
+  "name": "Pump Part",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "hydraulic_hose",
+  "name": "Hydraulic Hose",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "servo",
+  "name": "Servo",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "drone_rotor",
+  "name": "Drone Rotor",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "turbine_blade",
+  "name": "Turbine Blade",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "engine_block",
+  "name": "Engine Block",
+  "type": "gather",
+  "group": "Machine Part",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "twig",
+  "name": "Twig",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "small_branch",
+  "name": "Small Branch",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "tree_bark",
+  "name": "Tree Bark",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "leaf",
+  "name": "Leaf",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "vine",
+  "name": "Vine",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "moss",
+  "name": "Moss",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "fern_frond",
+  "name": "Fern Frond",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 1,
+  "hand": false
+ },
+ {
+  "id": "medium_branch",
+  "name": "Medium Branch",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "small_trunk",
+  "name": "Small Trunk",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "root",
+  "name": "Root",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "resin",
+  "name": "Resin",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "sap",
+  "name": "Sap",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "bamboo_stalk",
+  "name": "Bamboo Stalk",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "pine_cone",
+  "name": "Pine Cone",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "ivy",
+  "name": "Ivy",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 2,
+  "hand": false
+ },
+ {
+  "id": "large_branch",
+  "name": "Large Branch",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "medium_trunk",
+  "name": "Medium Trunk",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "mangrove_root",
+  "name": "Mangrove Root",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 3,
+  "hand": false
+ },
+ {
+  "id": "large_trunk",
+  "name": "Large Trunk",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "hardwood_knot",
+  "name": "Hardwood Knot",
+  "type": "gather",
+  "group": "Overgrowth Wood",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "vintage_circuit",
+  "name": "Vintage Circuit",
+  "type": "gather",
+  "group": "Relic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "memory_crystal",
+  "name": "Memory Crystal",
+  "type": "gather",
+  "group": "Relic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "fusion_cell",
+  "name": "Fusion Cell",
+  "type": "gather",
+  "group": "Relic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "data_core",
+  "name": "Data Core",
+  "type": "gather",
+  "group": "Relic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "ai_fragment",
+  "name": "AI Fragment",
+  "type": "gather",
+  "group": "Relic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "sealed_time_capsule",
+  "name": "Sealed Time Capsule",
+  "type": "gather",
+  "group": "Relic",
+  "chip": "Scavenge",
+  "tool_family": "axe",
+  "tier": 4,
+  "hand": false
+ },
+ {
+  "id": "sharp_shard",
+  "name": "Sharp Shard",
+  "type": "part"
+ },
+ {
+  "id": "blade_head",
+  "name": "Blade Head",
+  "type": "part"
+ },
+ {
+  "id": "braided_cable",
+  "name": "Braided Cable",
+  "type": "part"
+ },
+ {
+  "id": "hook",
+  "name": "Hook",
+  "type": "part"
+ },
+ {
+  "id": "sharp_alloy",
+  "name": "Sharp Alloy",
+  "type": "part"
+ },
+ {
+  "id": "smooth_rod",
+  "name": "Smooth Rod",
+  "type": "part"
+ },
+ {
+  "id": "rubber_cord",
+  "name": "Rubber Cord",
+  "type": "part"
+ },
+ {
+  "id": "scrap_axe",
+  "name": "Scrap Axe",
+  "type": "tool",
+  "family": "axe",
+  "tier": 1,
+  "durability": 15
+ },
+ {
+  "id": "scrap_hammer",
+  "name": "Scrap Hammer",
+  "type": "tool",
+  "family": "hammer",
+  "tier": 1,
+  "durability": 15
+ },
+ {
+  "id": "scrap_cutter",
+  "name": "Scrap Cutter",
+  "type": "tool",
+  "family": "cutter",
+  "tier": 1,
+  "durability": 15
+ },
+ {
+  "id": "scrap_lance",
+  "name": "Scrap Lance",
+  "type": "tool",
+  "family": "lance",
+  "tier": 1,
+  "durability": 15
+ },
+ {
+  "id": "scrap_digger",
+  "name": "Scrap Digger",
+  "type": "tool",
+  "family": "digger",
+  "tier": 1,
+  "durability": 15
+ },
+ {
+  "id": "scrap_rod",
+  "name": "Scrap Rod",
+  "type": "tool",
+  "family": "rod",
+  "tier": 1,
+  "durability": 15
+ },
+ {
+  "id": "scrap_grabber",
+  "name": "Scrap Grabber",
+  "type": "tool",
+  "family": "grabber",
+  "tier": 1,
+  "durability": 15
+ },
+ {
+  "id": "standard_axe",
+  "name": "Standard Axe",
+  "type": "tool",
+  "family": "axe",
+  "tier": 2,
+  "durability": 30
+ },
+ {
+  "id": "standard_hammer",
+  "name": "Standard Hammer",
+  "type": "tool",
+  "family": "hammer",
+  "tier": 2,
+  "durability": 30
+ },
+ {
+  "id": "standard_cutter",
+  "name": "Standard Cutter",
+  "type": "tool",
+  "family": "cutter",
+  "tier": 2,
+  "durability": 30
+ },
+ {
+  "id": "standard_lance",
+  "name": "Standard Lance",
+  "type": "tool",
+  "family": "lance",
+  "tier": 2,
+  "durability": 30
+ },
+ {
+  "id": "standard_digger",
+  "name": "Standard Digger",
+  "type": "tool",
+  "family": "digger",
+  "tier": 2,
+  "durability": 30
+ },
+ {
+  "id": "standard_rod",
+  "name": "Standard Rod",
+  "type": "tool",
+  "family": "rod",
+  "tier": 2,
+  "durability": 30
+ },
+ {
+  "id": "standard_grabber",
+  "name": "Standard Grabber",
+  "type": "tool",
+  "family": "grabber",
+  "tier": 2,
+  "durability": 30
+ },
+ {
+  "id": "advanced_axe",
+  "name": "Advanced Axe",
+  "type": "tool",
+  "family": "axe",
+  "tier": 3,
+  "durability": 60
+ },
+ {
+  "id": "advanced_hammer",
+  "name": "Advanced Hammer",
+  "type": "tool",
+  "family": "hammer",
+  "tier": 3,
+  "durability": 60
+ },
+ {
+  "id": "advanced_cutter",
+  "name": "Advanced Cutter",
+  "type": "tool",
+  "family": "cutter",
+  "tier": 3,
+  "durability": 60
+ },
+ {
+  "id": "advanced_lance",
+  "name": "Advanced Lance",
+  "type": "tool",
+  "family": "lance",
+  "tier": 3,
+  "durability": 60
+ },
+ {
+  "id": "advanced_digger",
+  "name": "Advanced Digger",
+  "type": "tool",
+  "family": "digger",
+  "tier": 3,
+  "durability": 60
+ },
+ {
+  "id": "advanced_rod",
+  "name": "Advanced Rod",
+  "type": "tool",
+  "family": "rod",
+  "tier": 3,
+  "durability": 60
+ },
+ {
+  "id": "advanced_grabber",
+  "name": "Advanced Grabber",
+  "type": "tool",
+  "family": "grabber",
+  "tier": 3,
+  "durability": 60
+ },
+ {
+  "id": "elite_axe",
+  "name": "Elite Axe",
+  "type": "tool",
+  "family": "axe",
+  "tier": 4,
+  "durability": 120
+ },
+ {
+  "id": "elite_hammer",
+  "name": "Elite Hammer",
+  "type": "tool",
+  "family": "hammer",
+  "tier": 4,
+  "durability": 120
+ },
+ {
+  "id": "elite_cutter",
+  "name": "Elite Cutter",
+  "type": "tool",
+  "family": "cutter",
+  "tier": 4,
+  "durability": 120
+ },
+ {
+  "id": "elite_lance",
+  "name": "Elite Lance",
+  "type": "tool",
+  "family": "lance",
+  "tier": 4,
+  "durability": 120
+ },
+ {
+  "id": "elite_digger",
+  "name": "Elite Digger",
+  "type": "tool",
+  "family": "digger",
+  "tier": 4,
+  "durability": 120
+ },
+ {
+  "id": "elite_rod",
+  "name": "Elite Rod",
+  "type": "tool",
+  "family": "rod",
+  "tier": 4,
+  "durability": 120
+ },
+ {
+  "id": "elite_grabber",
+  "name": "Elite Grabber",
+  "type": "tool",
+  "family": "grabber",
+  "tier": 4,
+  "durability": 120
+ },
+ {
+  "id": "tactical_tool",
+  "name": "Tactical Tool",
+  "type": "tool",
+  "family": "master",
+  "tier": 5,
+  "durability": 200
+ },
+ {
+  "id": "tactical_bright_tool",
+  "name": "Tactical Bright Tool",
+  "type": "tool",
+  "family": "master",
+  "tier": 5,
+  "durability": 400
+ }
+]
