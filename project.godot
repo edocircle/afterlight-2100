@@ -25,6 +25,7 @@ Inventory="*res://scripts/inventory.gd"
 Energy="*res://scripts/energy.gd"
 Skills="*res://scripts/skills.gd"
 CraftingSystem="*res://scripts/crafting_system.gd"
+GatherSystem="*res://scripts/gather_system.gd"
 
 [display]
 
